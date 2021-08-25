@@ -60,7 +60,7 @@
 
 ## Бэкенд и базы данных
 
-- [HTTP Statuses](https://httpstatuses.com), список HTT статусов ответа с их значениями;
+- [HTTP Statuses](https://httpstatuses.com), список HTTP статусов ответа с их значениями;
 - [Application Security](https://application.security/free/owasp-top-10), интерактивный чеклист по уязвимостям веб-приложений с объяснениями и рекомендациями к защите;
 - [Checklist for Changing Data Model](https://rtpg.co/2021/06/07/changes-checklist.html), чеклист для миграции данных и схем данных.
 
