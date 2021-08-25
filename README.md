@@ -30,6 +30,7 @@
 - [Can I Use CMD](https://github.com/sgentle/caniuse-cmd), CLI для Can I Use;
 - [Nth Tester](https://css-tricks.com/examples/nth-child-tester/), поможет проверить, так ли работает ваш `nth-child` селектор;
 - [Flexbox Playground](https://codepen.io/enxaneta/full/adLPwv/), визуализирует работу флекс-свойств;
+- [Complete Guid to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/), шпаргалка по CSS grid;
 - [Grid Lover](https://www.gridlover.net/try), конструктор вертикального ритма и отступов для заголовков и параграфов;
 - [Specificity Calc](https://specificity.keegan.st), калькулятор специфичности селекторов;
 - [HEX to RGB](https://www.webfx.com/web-design/hex-to-rgb/), конвертер цветов между разными цветовыми схемами;
