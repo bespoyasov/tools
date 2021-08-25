@@ -6,7 +6,7 @@
 
 - [Emmet](https://www.emmet.io), генератор HTML-кода из «CSS-селекторов»;
 - [Can I Include](https://caninclude.glitch.me), ответит на вопрос «Можно ли класть один тег в другой?»;
-- [HTML head](https://htmlhead.dev), поможет найти нужный элемент для `<head>` страницы;
+- [HTML head](https://html-head.ru), поможет найти нужный элемент для `<head>` страницы;
 - [Logical Content Flow](https://defaced.dev/tools/logical-content-flow/), проверит найти проблемы с заголовками, их порядком и отображением;
 - [Better Mobile Inputs](https://better-mobile-inputs.netlify.app), поможет подобрать `<input>` и атрибуты для него так, чтобы им было удобно пользоваться на мобильных;
 - [Weblind](https://weblind.ru), рекомендации по разработке сайтов для людей с нарушениями зрения;
