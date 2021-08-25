@@ -41,10 +41,11 @@
 - [CSS Shapes](https://css-tricks.com/the-shapes-of-css/), набор часто используемых фигур на чистом CSS;
 - [CSS Triggers](https://csstriggers.com), подскажет, какие свойства запускают layout, paint и composite.
 
-## Работа в команде, git
+## Git, shell
 
 - [Oh shit! Git](https://ohshitgit.com), подскажет, что делать, если вы допустили ошибку в гите;
-- [Git Explorer](https://gitexplorer.com), справочник по командам и возможностям гита.
+- [Git Explorer](https://gitexplorer.com), справочник по командам и возможностям гита;
+- [Explain Shell](https://explainshell.com), объясняет команды терминала и ключи к ним.
 
 ## JavaScript и SPA
 
