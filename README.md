@@ -69,6 +69,7 @@
 - [White Spaces](https://kirillbelyaev.com/s/), список всех существующих пробелов и рекомендации по использованию каждого;
 - [Типограф](https://typograf.github.io/mobile.html), правит пунктуацию, ставит неразрывные пробелы и проч.;
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), справочник по MD;
+- [Markdown Editor](https://readme.so), визуальный редактор MD;
 - [Polacode](https://github.com/octref/polacode), скриншоттер для фрагментов кода;
 - [Resume.io](https://resume.io), конструктор CV.
 
