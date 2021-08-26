@@ -33,7 +33,7 @@
 - [Grid by Example](https://gridbyexample.com/examples/), шпаргалка по CSS grid;
 - [Grid Lover](https://www.gridlover.net/try), конструктор вертикального ритма и отступов для заголовков и параграфов;
 - [Specificity Calc](https://specificity.keegan.st), калькулятор специфичности селекторов;
-- [HEX to RGB](https://www.webfx.com/web-design/hex-to-rgb/), конвертер цветов между разными цветовыми схемами;
+- [Colord](https://colord.omgovich.ru), конвертер цветов между разными цветовыми схемами;
 - [CSS Gradient](https://cssgradient.io), конструктор CSS градиентов;
 - [Easings](https://easings.net), справочник по easing-функциям с примерами;
 - [Cubic Bezier](https://cubic-bezier.com/#.87,0,.13,1), конструктор и редактор кривых Безье;
