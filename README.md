@@ -15,6 +15,7 @@
 - [Good Email Code](https://www.goodemailcode.com), справочник и набор рекомендаций для пуленепробиваемой вёрстки писем;
 - [How to Favicon in 2021](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs), статья-чеклист о том, как добавлять фавиконку на сайт без лишнего кода;
 - [W3C Validator](https://validator.w3.org/nu/#textarea), валидатор HTML-кода.
+- [HTML to JSX](https://transform.tools/html-to-jsx), транспайлер HTML-кода в JSX.
 
 ## Подготовка графики
 
@@ -23,6 +24,7 @@
 - [SVG OMG](https://jakearchibald.github.io/svgomg/), оптимизатор SVG;
 - [Social Image Preview](https://socialsharepreview.com/), предпросмотрщик изображений для соцсетей;
 - [Facebook Debug](https://developers.facebook.com/tools/debug/), дебагер соц-изображений для Facebook.
+- [IsoFlat](https://isoflat.com/), поможет найти стоковые графические ресурсы (no copyrights).
 
 ## Стилизация и CSS
 
