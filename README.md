@@ -19,6 +19,7 @@
 ## Подготовка графики
 
 - [Squoosh](https://squoosh.app), приложение, CLI и API для оптимизации графики;
+- [TinyPNG](https://tinypng.com), сервис для оптимизации графики;
 - [SVG URL Encoder](https://yoksel.github.io/url-encoder/ru/), кодирует SVG в URL-строку, чтобы использовать его в `background` без base64;
 - [SVG OMG](https://jakearchibald.github.io/svgomg/), оптимизатор SVG;
 - [Social Image Preview](https://socialsharepreview.com/), предпросмотрщик изображений для соцсетей;
